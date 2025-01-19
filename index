@@ -1,10 +1,11 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>KrisPCodes</title>
+    <title>KrisP Codes</title>
   </head>
   <body>
-    <h1>This is my new site</h1>
-    <h2>KrisP Codes</h2>
+    <h1>KrisP Codes</h1>
+    <p>Welcome to my Website</p>
+    <img src="http://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif"/>
   </body>
 </html>
